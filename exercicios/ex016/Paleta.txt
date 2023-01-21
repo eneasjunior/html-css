@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Split-Complementary-2-1-hex { color: #918177; }
+.Split-Complementary-2-2-hex { color: #DEDAD7; }
+.Split-Complementary-2-3-hex { color: #CED6DF; }
+.Split-Complementary-2-4-hex { color: #918D77; }
+.Split-Complementary-2-5-hex { color: #DED9C1; }
+
+/* Color Theme Swatches in RGBA */
+.Split-Complementary-2-1-rgba { color: rgba(145, 129, 119, 1); }
+.Split-Complementary-2-2-rgba { color: rgba(222, 218, 215, 1); }
+.Split-Complementary-2-3-rgba { color: rgba(206, 214, 223, 1); }
+.Split-Complementary-2-4-rgba { color: rgba(145, 141, 119, 1); }
+.Split-Complementary-2-5-rgba { color: rgba(222, 217, 193, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Split-Complementary-2-1-hsla { color: hsla(23, 10, 51, 1); }
+.Split-Complementary-2-2-hsla { color: hsla(25, 9, 85, 1); }
+.Split-Complementary-2-3-hsla { color: hsla(211, 20, 84, 1); }
+.Split-Complementary-2-4-hsla { color: hsla(50, 10, 51, 1); }
+.Split-Complementary-2-5-hsla { color: hsla(49, 30, 81, 1); }
